@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0721-accounts-merge) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0721-accounts-merge) |
 ## Math
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
