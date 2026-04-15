@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
+## Hash Table
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
