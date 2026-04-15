@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0202-happy-number) |
 | [0929-unique-email-addresses](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 ## String
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
