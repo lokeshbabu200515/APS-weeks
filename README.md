@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
@@ -51,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
