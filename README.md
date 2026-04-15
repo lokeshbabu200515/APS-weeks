@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokeshbabu200515/APS-weeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokeshbabu200515/APS-weeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokeshbabu200515/APS-weeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lokeshbabu200515/APS-weeks/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
