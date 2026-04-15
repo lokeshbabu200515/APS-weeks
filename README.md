@@ -6,18 +6,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -30,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
