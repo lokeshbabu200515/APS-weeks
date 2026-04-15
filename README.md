@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
+| [0929-unique-email-addresses](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0929-unique-email-addresses) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 ## Union-Find
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+| [0929-unique-email-addresses](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0997-find-the-town-judge) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+| [0929-unique-email-addresses](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0929-unique-email-addresses) |
 ## Sorting
 |  |
 | ------- |
