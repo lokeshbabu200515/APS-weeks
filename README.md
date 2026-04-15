@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0733-flood-fill) |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0721-accounts-merge) |
@@ -55,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/lokeshbabu200515/APS-weeks/tree/master/0994-rotting-oranges) |
